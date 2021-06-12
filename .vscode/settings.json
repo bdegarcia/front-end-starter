@@ -11,7 +11,6 @@
     "source.organizeImports": true
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontFamily": "'Victor Mono', 'Fira Code', 'Inconsolata', 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -30,10 +29,5 @@
   "kite.codefinder.enableLineDecoration": false,
   "prettier.requireConfig": true,
   "stylelint.enable": true,
-  "terminal.integrated.fontFamily": "'Inconsolata', monospace",
-  "workbench.colorTheme": "One Dark Pro",
-  "workbench.enableExperiments": false,
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.view.alwaysShowHeaderActions": true,
   "editor.parameterHints.enabled": false
 }
